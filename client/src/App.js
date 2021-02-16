@@ -82,7 +82,7 @@ const App = () => {
 
   return (
     <div className="app">
-      <h2>Welcome to my App</h2>
+      <h2>Welcome to best app ever!</h2>
       <form onSubmit={e => handleSubmit(e)}>
         <div className="form-input">
           <input
